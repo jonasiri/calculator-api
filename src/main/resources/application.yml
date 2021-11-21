@@ -1,0 +1,8 @@
+
+server:
+  port: 9000
+  error:
+    include-message: always
+    include-binding-errors: always
+    include-stacktrace: never
+    include-exception: false
